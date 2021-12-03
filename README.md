@@ -7,7 +7,7 @@ LINE 着せ替えの情報を取得するライブラリです<br>
 
 ```python
 from getLineTheme import getLineTheme
-getLineTheme = getLineTheme.getLineTheme("https://store.line.me/stickershop/product/23822/ja")
+getLineTheme = getLineTheme.getLineTheme("https://store.line.me/themeshop/product/09d8f1c5-b0f2-45a4-a0e6-222a9b94156a")
 
 # @context
 print(LineTheme.content.context)
