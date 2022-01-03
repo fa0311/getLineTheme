@@ -2,6 +2,7 @@
 
 LINE 着せ替えの情報を取得するライブラリです<br>
 <br>
+[getLineStamp](https://github.com/fa0311/getLineStamp) / getLineTheme<br>
 
 ## Usage
 
